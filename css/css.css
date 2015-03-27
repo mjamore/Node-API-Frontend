@@ -1,0 +1,11 @@
+/* generic */
+div {
+	background-color: #EFF2FB;
+}
+
+#teams,
+#apps {
+	border: 5px solid gray;
+	padding: 5px;
+	margin: 5px;
+}
